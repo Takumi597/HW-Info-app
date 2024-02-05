@@ -1,0 +1,13 @@
+<RCC>
+  <qresource prefix="nowyPrzedrostek">
+    <file>Disk Defragmenter.png</file>
+    <file>Exit.png</file>
+    <file>Maximize.png</file>
+    <file>Minimize.png</file>
+    <file>OE Folder List.png</file>
+    <file>Programs.png</file>
+    <file>Removable Media.png</file>
+    <file>System Information.png</file>
+    <file>Task Manager.png</file>
+  </qresource>
+</RCC>
